@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lịch sử chùa Bái Đính</title>
+</head>
+<body style="background-color: lightblue;">
+    <h1 style="text-align:center; color:blue;">
+        "Lịch sử chùa Bái Đính"...
+    </h1>
+    <p style="background-image: url('anh.jpg'); color: yellow; font-size:20px; background-position: center; background-repeat: no-repeat; background-size: cover; padding: 20px;">
+        Hơn 1000 năm về trước, ba triều đại phong kiến nhà Đinh,
+        nhà Tiền Lê và nhà Lý đều rất quan tâm và coi đạo Phật
+        là Quốc giáo nên cho xây rất nhiều chùa, trong đó có chùa
+        Bái Đính nằm trên dãy núi Tràng An.
+        
+        <br><br>
+        Chùa có lịch sử hình thành từ thời Đinh nhưng vẫn có nhiều
+        chi tiết kiến trúc và cổ vật mang dấu ấn đậm nét của thời Lý.
+        Chùa nằm trên vùng đất hội tụ đầy đủ các yếu tố địa linh
+        nhân kiệt theo quan niệm dân gian Việt Nam.
+    </p>
+</body>
+</html>
