@@ -1,0 +1,208 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>Thời khóa biểu</title>
+
+<style>
+    body{
+        font-family: Arial, sans-serif;
+    }
+
+    h1{
+        text-align:center;
+        color:rgba(255, 0, 119, 0.284);
+    }
+
+    table{
+        width:90%;
+        margin:auto;
+        border-collapse:collapse;
+    }
+
+    th,td{
+        border:1px solid black;
+        text-align:center;
+        padding:10px;
+    }
+
+    th{
+        background:#00a8e8;
+        color:white;
+    }
+
+    .ca{
+        background:#d69a00;
+        color:white;
+        font-weight:bold;
+    }
+
+    .green{background:#6ee66e;}
+    .yellow{background:#d9d94a;}
+    .brown{background:#b07a3b;color:white;}
+    .red{background:#f06a6a;}
+    .mint{background:#9df0c9;}
+</style>
+</head>
+
+<body>
+
+<h1>THỜI KHÓA BIỂU</h1>
+
+<table>
+
+<tr>
+    <th></th>
+    <th>PHÒNG</th>
+    <th>THỨ HAI</th>
+    <th>THỨ BA</th>
+    <th>THỨ TƯ</th>
+    <th>THỨ NĂM</th>
+    <th>THỨ SÁU</th>
+    <th>THỨ BẢY</th>
+    <th>CHỦ NHẬT</th>
+</tr>
+
+<tr>
+    <td class="ca" rowspan="4">SÁNG</td>
+    <td>P201</td>
+    <td class="green">LTĐT</td>
+    <td class="yellow">CSDL</td>
+    <td></td>
+    <td></td>
+    <td class="green">LTĐT</td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td>P302</td>
+    <td class="yellow">CSDL</td>
+    <td class="brown">HĐH</td>
+    <td class="green">LTĐT</td>
+    <td class="yellow">LTPHP</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td>TH01</td>
+    <td class="yellow">LTPHP</td>
+    <td></td>
+    <td class="brown">HĐH</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td>TH02</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="yellow">LTPHP</td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td class="ca" rowspan="4">CHIỀU</td>
+    <td>P201</td>
+    <td class="yellow">Toán A1</td>
+    <td class="mint">UML</td>
+    <td></td>
+    <td class="red">VLA1</td>
+    <td class="red">TKCSDL</td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td>P302</td>
+    <td class="red">TKCSDL</td>
+    <td class="red">VLA1</td>
+    <td class="yellow">Toán A1</td>
+    <td></td>
+    <td class="yellow">Toán A1</td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td>TH01</td>
+    <td></td>
+    <td></td>
+    <td class="red">TKCSDL</td>
+    <td class="mint">UML</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td>TH02</td>
+    <td class="yellow">CSDL</td>
+    <td class="mint">UML</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+
+</table>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>Thời khóa biểu</title>
+
+<style>
+    body{
+        font-family: Arial, sans-serif;
+    }
+
+    h1{
+        text-align:center;
+        color:blue;
+    }
+
+    table{
+        width:90%;
+        margin:auto;
+        border-collapse:collapse;
+    }
+
+    th,td{
+        border:1px solid black;
+        text-align:center;
+        padding:10px;
+    }
+
+    th{
+        background:#00a8e8;
+        color:white;
+    }
+
+    .ca{
+        background:#d69a00;
+        color:white;
+        font-weight:bold;
+    }
+
+    .green{background:#6ee66e;}
+    .yellow{background:#d9d94a;}
+    .brown{background:#b07a3b;color:white;}
+    .red{background:#f06a6a;}
+    .mint{background:#9df0c9;}
+</style>
+</head>
+
+</html>
